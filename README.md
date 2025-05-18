@@ -1,4 +1,4 @@
-Naina's Portfolio Website Welcome to my portfolio website! This site is designed to showcase my skills, projects, and background as a final year BCA student. It is built using HTML, CSS, and JavaScript.
+Naina's Portfolio Website Welcome to my portfolio website! This site is designed to showcase my skills, projects, and background as a 2025 BCA graduate. It is built using HTML, CSS, and JavaScript.
 
 Table of Contents Overview Pages Home About Projects Contact Me Technologies Used Setup Contributing License Contact Overview This portfolio website is a personal project created to highlight my journey in the field of Computer Applications. It serves as an online resume, showcasing my projects, skills, and background. The website is fully responsive and optimized for both desktop and mobile devices.
 
